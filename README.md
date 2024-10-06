@@ -1,7 +1,7 @@
 - Hi, This is Raiyan Rafiq Sarker.
 -  I am Passionate about the intersection of technology, public speaking, and community engagement. I thrive on sharing knowledge, inspiring others, and making a positive impact through my work.
 -  I am currently doing my BSc in Computer Science & Engineering (CSE) in American International University-Bangladesh (AIUB).
--  c++, Java, SQL...
+-  c++, Java, SQL, C#...
 - General Member- Engineering Students Association of Bangladesh (ESAB).
 - Volunteer- ESAB AIUB unit Face.
 -  Executive Member- Bangladesh Human Rights Commission (BHRC),Narsingdi District.
